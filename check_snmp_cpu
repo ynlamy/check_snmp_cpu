@@ -75,7 +75,7 @@ print_help() {
   echo "-w INTEGER"
   echo "   Warning level for the cpu load in percent (default: 0)"
   echo "-c INTEGER"
-  echo "   Critical level for the cpu usage in percent (default: 0)"
+  echo "   Critical level for the cpu load in percent (default: 0)"
   echo "-h"
   echo "   Print this help screen"
   echo "-V"
