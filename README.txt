@@ -18,7 +18,7 @@ Print this help screen
 Print version and license information
 
 This plugin uses the 'snmpwalk' command included with the NET-SNMP package.
-This plugin support performance data output. 
+This plugin support performance data output. If the warning level and critical levels are both set to 0, then the script returns OK state.
 
 This nagios plugins comes with ABSOLUTELY NO WARRANTY.
 
